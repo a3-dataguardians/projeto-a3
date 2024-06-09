@@ -1,3 +1,3 @@
 # projeto-a3
 
-Reposiório contendo o código fonte do projeto do grupo DataGuardians.
+Repositório contendo o código fonte do projeto do grupo DataGuardians.
